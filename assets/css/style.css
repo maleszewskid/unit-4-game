@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.jumbotron {
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+.gem {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border-color: black;
+}
+
+.target-number {
+    font-size: 25px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.panel-body {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    background: black;
+    color: white;
+}
+
+.counter {
+    background-color: white;
+    border-color: black;
+}
+
+.total-score {
+    color: white;
+    background-color: black;
+}
+
+.score {
+    color: white;
+    background-color: black;
+    font-size: 25px;
+}
+
+.panel-title {
+    font-size: 25px;
+    font-weight: bolder;
+}
